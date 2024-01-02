@@ -1,0 +1,11 @@
+{
+    "manifest_version": 2,
+    "name": "MG",
+    "version": "1.0",
+    "description": "Generate emails with OpenAI ChatGPT",
+    "permissions": ["storage", "activeTab"],
+    "browser_action": {
+      "default_popup": "popup.html"
+    }
+
+}
